@@ -24,5 +24,5 @@ description: 控件_开始绘制
 ## 易语言
 
 ```basic
-
+Ex_ObjBeginPaint(hobj,ps)
 ```
